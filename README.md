@@ -2,7 +2,7 @@
 
 ***
 
-Estudante do 5° semestre de Ciência da Computação e desenvolvedor .NET Jr. na Best Projects
+Estudante do 5° semestre de Ciência da Computação e desenvolvedor C# .NET Jr. na Best Projects além de entusiasta por tecnologias de desenvolvimento web front-end e back-end
 
 ***
 
