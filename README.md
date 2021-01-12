@@ -2,7 +2,7 @@
 
 ***
 
-Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie, entusiasta por tecnologia, com foco principalmente em desenvolvimento de sistemas web, podendo assim, utilizar e aprimorar os conhecimentos em tecnologias front-end, back-end e mobile.
+Estudante do 5° semestre de Ciência da Computação e desenvolvedor .NET Jr. na Best Projects
 
 ***
 
