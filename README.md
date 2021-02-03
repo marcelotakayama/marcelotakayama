@@ -44,7 +44,6 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
   
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=marcelotakayama&show_icons=true&theme=tokyonight">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotakayama&amp;theme=dark)](https://github.com/marcelotakayama/github-readme-stats)
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=marcelotakayama&show_icons=true&theme=tokyonight">
