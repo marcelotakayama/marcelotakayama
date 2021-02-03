@@ -1,12 +1,7 @@
 ### Olá Mundo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"> eu sou o Marcelo!
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=marcelo.takayama5763@gmail.com" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-takayama-454b85183/" /></a>
-</p>  
+[![Linkedin: Marcelo Takayama](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-takayama-454b85183/)](https://www.linkedin.com/in/marcelo-takayama-454b85183/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelo.takayama5763@gmail.com)](mailto:marcelo.takayama5763@gmail.com)
 
 ***
 
