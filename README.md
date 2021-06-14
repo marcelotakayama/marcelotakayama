@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=marcelotakayama&color=006bed)
 
 - 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www.mackenzie.br/"> **Universidade Presbiteriana Mackenzie**</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor .NET Júnior** na <a href="https://www.bestprojects.com.br/"> **Best Projects**</a>
+- 💼 &nbsp; Trabalhando como **Engenheiro de Software** na <a href="https://xerpay.com.br/"> **Xerpay**</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
