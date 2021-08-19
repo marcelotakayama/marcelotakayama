@@ -1,5 +1,3 @@
-### Olá Mundo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"> eu sou o Marcelo
-
 <a href="https://marcelotakayama.github.io/"><img src="https://media.discordapp.net/attachments/831225275697070192/877243720729235466/intro.gif?width=257&height=225" alt="gif" align="right"></a>
 
 [![Linkedin: Marcelo Takayama](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-takayama-454b85183/)](https://www.linkedin.com/in/marcelo-takayama-454b85183/)
