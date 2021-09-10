@@ -56,10 +56,7 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com?user=marcelotakayama&theme=react" alt="marcelotakayama" 
     </a>
-
   </div>
-  <br>
-
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=marcelotakayama&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
