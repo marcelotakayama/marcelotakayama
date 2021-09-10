@@ -46,6 +46,20 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
   
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=marcelotakayama&show_icons=true&theme=tokyonight">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=marcelotakayama&show_icons=true&theme=react">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotakayama&amp;theme=dark)](https://github.com/marcelotakayama/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotakayama&amp;theme=react)](https://github.com/marcelotakayama/github-readme-stats)
+
+
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com?user=marcelotakayama&theme=react" alt="marcelotakayama" 
+    </a>
+
+  </div>
+  <br>
+
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=marcelotakayama&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
