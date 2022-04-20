@@ -1,4 +1,4 @@
-<a href="https://marcelotakayama.github.io/"><img src="https://media.discordapp.net/attachments/831225275697070192/877243720729235466/intro.gif?width=257&height=225" alt="gif" align="right"></a>
+<a><img src="https://media.discordapp.net/attachments/831225275697070192/966484811239809124/E2SCGxVXoAwoKBf.jpeg?width=216&height=215" alt="gif" align="right"></a>
 
 ![](https://komarev.com/ghpvc/?username=marcelotakayama&color=006bed)
 
