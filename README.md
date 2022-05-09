@@ -1,6 +1,7 @@
-<a><img src="https://media.discordapp.net/attachments/831225275697070192/966484811239809124/E2SCGxVXoAwoKBf.jpeg?width=216&height=215" alt="gif" align="right"></a>
 
-![](https://komarev.com/ghpvc/?username=marcelotakayama&color=006bed)
+
+<img src="https://media.giphy.com/media/nQDKSeRlIyfmw/giphy.gif" alt="gif" align="right" height=200></a>
+
 
 <h3> :boy: &nbsp;Sobre mim </h3>
 
