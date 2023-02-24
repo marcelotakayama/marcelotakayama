@@ -3,7 +3,7 @@
 <h3> :boy: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www.mackenzie.br/"> **Universidade Presbiteriana Mackenzie**</a>.
-- 💼 &nbsp; Trabalhando como **Engenheiro de Software** na <a href="https://gobetterfly.com/en/"> **Betterfly**</a>
+- 💼 &nbsp; Trabalhando como **Engenheiro de Software Elixir**
 
 [![Linkedin: Marcelo Takayama](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-takayama-454b85183/)](https://www.linkedin.com/in/marcelo-takayama-454b85183/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelo.takayama5763@gmail.com)](mailto:marcelo.takayama5763@gmail.com)
